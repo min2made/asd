@@ -13,7 +13,7 @@ flashforge adventurer 3 lite
 
 ## 완성 된 하드웨어 모델링 사진 목록
 
-### Lower_part / 아래 지지대
+### Lower_part / 서보모터 지지대
 <p align="center">
    <img src="submit/(1) lower_part.png" alt="Main Image" width="800" style="margin-bottom:20px;"/>
   <table>
@@ -28,20 +28,16 @@ flashforge adventurer 3 lite
   </table>
 </p>
 
-
-### Prerequisites / 선행 조건
-
-
-
+### Main / 카드 수납 공간
 <p align="center">
+   <img src="submit/(2) Main.png" alt="Main Image" width="800" style="margin-bottom:20px;"/>
   <table>
     <tr>
-      <td><img src="(1) lower_part.png" alt="Image 1" width="600"/></td>
-      <td><img src="(1) lower_part_top.png" alt="Image 2" width="600"/></td>
+      <td><img src="submit/(2) Main_top.png" alt="Image 1" width="600"/></td>
+      <td><img src="submit/(2) Main_side.png"" alt="Image 2" width="600"/></td>
     </tr>
     <tr>
-      <td><img src="(1) lower_part_side.png" alt="Image 3" width="600"/></td>
-      <td><img src="(1) lower_part_side2.png" alt="Image 4" width="600"/></td>
+      <td><img src="submit/(2) Main_side2.png" alt="Image 3" width="600"/></td>
     </tr>
   </table>
 </p>
